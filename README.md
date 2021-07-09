@@ -1,14 +1,14 @@
-# Rust - Concorrencia e Alta Performance com Seguranca  
-Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorrencia e Alta Performance com Seguranca** da Casa do Codigo 
-  
-## Conteudo do Livro  
+# Rust - Concorrencia e Alta Performance com Seguranca 
+Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorrencia e Alta Performance com Seguranca** da Casa do Codigo  
+   
+## Conteudo do Livro 
 1. Primeiros passos;
-    - [ ] - Por que uma nova linguagem de programação?
-    - [ ] - Um pouco de história
-    - [ ] - O que é Rust?
-    - [ ] - O que preciso instalar em meu computador?
-    - [ ] - Pronto para o Alô Mundo?
-    - [ ] - Conclusão
+    - [x] - Por que uma nova linguagem de programação?
+    - [x] - Um pouco de história
+    - [x] - O que é Rust?
+    - [x] - O que preciso instalar em meu computador?
+    - [x] - Pronto para o Alô Mundo?
+    - [x] - Conclusão
 2. Começando com o cargo;
     - [ ] - Preludes
     - [ ] - Crates, cargo e outras ferramentas
@@ -38,34 +38,34 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
     - [ ] - Strings
     - [ ] - Tipos de dados genéricos
     - [ ] - Conclusão
-6. Alocação e gerenciamento de memória
+6. Alocação e gerenciamento de memória;
     - [ ] - Gerenciamento de memória
     - [ ] - Escopo de variáveis
     - [ ] - Casting
     - [ ] - Ponteiros, box e drop
     - [ ] - Outros tipos de ponteiros
-	- [ ] - Processamento paralelo e threads 163
-	- [ ] - Criando uma thread 164
-	- [ ] - Movendo o contexto 166
-	- [ ] - Entendendo channels 169
-	- [ ] -0 Conclusão 173
+	- [ ] - Processamento paralelo e threads
+	- [ ] - Criando uma thread
+	- [ ] - Movendo o contexto
+	- [ ] - Entendendo channels
+	- [ ] -0 Conclusão
 7. Macros;
-	- [ ] - Por que macros? 175
-	- [ ] - Recursividade 178
-	- [ ] - Árvores de tokens 185
-	- [ ] - Por que usamos macros? 189
-	- [ ] - As duas Rusts 190
-	- [ ] - Conclusão 191
-8. Testar, o tempo todo;
-	- [ ] - A macro panic! 192
-	- [ ] - Macros de asserção 194
-	- [ ] - Desempacotamento e a macro try! 196
-	- [ ] - Escrevendo testes 204
-	- [ ] - Conclusão 213
-9. Como Rust compila o seu código;
-	- [ ] - O passo a passo da compilação 215
-	- [ ] - O MIR e a melhoria no processo de compilação 218
-10. O começo de uma jornada;
-	- [ ] - Material online 220
+	- [ ] - Por que macros?
+	- [ ] - Recursividade
+	- [ ] - Árvores de tokens
+	- [ ] - Por que usamos macros?
+	- [ ] - As duas Rusts
 	- [ ] - Conclusão
-   
+8. Testar, o tempo todo;
+	- [ ] - A macro panic!
+	- [ ] - Macros de asserção
+	- [ ] - Desempacotamento e a macro try!
+	- [ ] - Escrevendo testes
+	- [ ] - Conclusão
+9. Como Rust compila o seu código;
+	- [ ] - O passo a passo da compilação
+	- [ ] - O MIR e a melhoria no processo de compilação
+10. O começo de uma jornada;
+	- [ ] - Material online
+	- [ ] - Conclusão
+  
