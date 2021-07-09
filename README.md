@@ -10,10 +10,10 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
     - [x] - Pronto para o Alô Mundo?
     - [x] - Conclusão
 2. Começando com o cargo;
-    - [ ] - Preludes
-    - [ ] - Crates, cargo e outras ferramentas
-    - [ ] - Criando um projeto com o cargo
-    - [ ] - Utilizando extensões
+    - [x] - Preludes
+    - [x] - Crates, cargo e outras ferramentas
+    - [x] - Criando um projeto com o cargo
+    - [x] - Utilizando extensões
     - [ ] - Conclusão
 3. Mergulhando no oceano Rust;
     - [ ] - Atribuição e vinculação de variáveis
