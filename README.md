@@ -16,7 +16,7 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
     - [x] - Utilizando extensões
     - [x] - Conclusão
 3. Mergulhando no oceano Rust;
-    - [ ] - Atribuição e vinculação de variáveis
+    - [x] - Atribuição e vinculação de variáveis
     - [ ] - Funções
     - [ ] - Tipos de dados em Rust
     - [ ] - Agrupando em módulos
