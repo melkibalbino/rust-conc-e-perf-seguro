@@ -19,9 +19,9 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
     - [x] - Atribuição e vinculação de variáveis
     - [x] - Funções
     - [x] - Tipos de dados em Rust
-    - [ ] - Agrupando em módulos
-    - [ ] - Comentários
-    - [ ] - O bom e velho if
+    - [x] - Agrupando em módulos
+    - [x] - Comentários
+    - [x] - O bom e velho if
     - [ ] - Busca de padrões com match
     - [ ] - While
     - [ ] - Loop
