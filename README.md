@@ -22,11 +22,11 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
     - [x] - Agrupando em módulos
     - [x] - Comentários
     - [x] - O bom e velho if
-    - [ ] - Busca de padrões com match
-    - [ ] - While
-    - [ ] - Loop
-    - [ ] - For
-    - [ ] - Conclusão
+    - [x] - Busca de padrões com match
+    - [x] - While
+    - [x] - Loop
+    - [x] - For
+    - [x] - Conclusão
 4. Traits e estruturas;
     - [ ] - Derivando
     - [ ] - PartialEq e Eq
