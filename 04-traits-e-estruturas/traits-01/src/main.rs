@@ -18,6 +18,7 @@ trait User {
     }
 }
 
+#[derive(Debug)]
 struct Admin { username: &'static str }
 struct Operador { username: &'static str }
 struct BasicUser { username: &'static str }
@@ -84,6 +85,7 @@ fn main() {
     println!("Bem-Vindo usuario {}", admin.username());
     println!("{}", admin.login());
     println!("{}", admin.logout());
+    println!("{:?}", admin);
 
     let operador: Operador = User::new("pessoa qualquer 01");
     println!("Bem-Vindo usuario {}", operador.username());
