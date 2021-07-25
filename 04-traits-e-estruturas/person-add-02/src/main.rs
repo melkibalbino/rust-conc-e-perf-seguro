@@ -10,12 +10,7 @@ impl Add<i32> for Person {
     type Output = Person;
 
     fn add(self, b: i32) -> Person {
-
-        let other = Person {
-            name: self.name,
-            age: self.age + b
-        };
-        other
+        Person { name: self.name, age: self.age + b }
     }
 }
 
