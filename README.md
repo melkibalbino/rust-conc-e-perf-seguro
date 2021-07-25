@@ -29,7 +29,7 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
     - [x] - Conclusão
 4. Traits e estruturas;
     - [x] - Derivando
-    - [ ] - PartialEq e Eq
+    - [x] - PartialEq e Eq
     - [ ] - PartialOrd e Ord
     - [ ] - Operações aritméticas e de bit
     - [ ] - Conclusão
