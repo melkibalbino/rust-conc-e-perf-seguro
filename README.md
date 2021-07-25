@@ -31,8 +31,8 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
     - [x] - Derivando
     - [x] - PartialEq e Eq
     - [x] - PartialOrd e Ord
-    - [ ] - Operações aritméticas e de bit
-    - [ ] - Conclusão
+    - [x] - Operações aritméticas e de bit
+    - [x] - Conclusão
 5. Vetores, strings e tipos genéricos;
     - [ ] - Vetores
     - [ ] - Strings
