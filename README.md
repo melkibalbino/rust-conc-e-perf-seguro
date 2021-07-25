@@ -30,7 +30,7 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
 4. Traits e estruturas;
     - [x] - Derivando
     - [x] - PartialEq e Eq
-    - [ ] - PartialOrd e Ord
+    - [x] - PartialOrd e Ord
     - [ ] - Operações aritméticas e de bit
     - [ ] - Conclusão
 5. Vetores, strings e tipos genéricos;
