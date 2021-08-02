@@ -15,6 +15,6 @@ fn main() {
 
     // iterar com indice
     for (idx, chr) in name.chars().enumerate() {
-        println!("Indice: {}, Char: {}", idx, chr);
+        println!("Indice: {}, Char: {}", idx, chr)
     }
 }
