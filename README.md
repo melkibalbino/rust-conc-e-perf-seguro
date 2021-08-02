@@ -34,7 +34,7 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
     - [x] - Operações aritméticas e de bit
     - [x] - Conclusão
 5. Vetores, strings e tipos genéricos;
-    - [ ] - Vetores
+    - [x] - Vetores
     - [ ] - Strings
     - [ ] - Tipos de dados genéricos
     - [ ] - Conclusão
