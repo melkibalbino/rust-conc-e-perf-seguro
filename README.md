@@ -46,9 +46,9 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
     - [x] - Outros tipos de ponteiros
 	- [x] - Processamento paralelo e threads
 	- [x] - Criando uma thread
-	- [ ] - Movendo o contexto
-	- [ ] - Entendendo channels
-	- [ ] -0 Conclusão
+	- [x] - Movendo o contexto
+	- [x] - Entendendo channels
+	- [x] - Conclusão
 7. Macros;
 	- [ ] - Por que macros?
 	- [ ] - Recursividade
