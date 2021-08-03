@@ -52,10 +52,10 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
 7. Macros;
 	- [x] - Por que macros?
 	- [x] - Recursividade
-	- [ ] - Árvores de tokens
-	- [ ] - Por que usamos macros?
-	- [ ] - As duas Rusts
-	- [ ] - Conclusão
+	- [x] - Árvores de tokens
+	- [x] - Por que usamos macros?
+	- [x] - As duas Rusts
+	- [x] - Conclusão
 8. Testar, o tempo todo;
 	- [ ] - A macro panic!
 	- [ ] - Macros de asserção
