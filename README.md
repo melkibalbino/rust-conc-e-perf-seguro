@@ -36,8 +36,8 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
 5. Vetores, strings e tipos genéricos;
     - [x] - Vetores
     - [x] - Strings
-    - [ ] - Tipos de dados genéricos
-    - [ ] - Conclusão
+    - [x] - Tipos de dados genéricos
+    - [x] - Conclusão
 6. Alocação e gerenciamento de memória;
     - [ ] - Gerenciamento de memória
     - [ ] - Escopo de variáveis
