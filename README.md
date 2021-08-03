@@ -39,8 +39,8 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
     - [x] - Tipos de dados genéricos
     - [x] - Conclusão
 6. Alocação e gerenciamento de memória;
-    - [ ] - Gerenciamento de memória
-    - [ ] - Escopo de variáveis
+    - [x] - Gerenciamento de memória
+    - [x] - Escopo de variáveis
     - [ ] - Casting
     - [ ] - Ponteiros, box e drop
     - [ ] - Outros tipos de ponteiros
