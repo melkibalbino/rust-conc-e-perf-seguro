@@ -41,11 +41,11 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
 6. Alocação e gerenciamento de memória;
     - [x] - Gerenciamento de memória
     - [x] - Escopo de variáveis
-    - [ ] - Casting
-    - [ ] - Ponteiros, box e drop
-    - [ ] - Outros tipos de ponteiros
-	- [ ] - Processamento paralelo e threads
-	- [ ] - Criando uma thread
+    - [x] - Casting
+    - [x] - Ponteiros, box e drop
+    - [x] - Outros tipos de ponteiros
+	- [x] - Processamento paralelo e threads
+	- [x] - Criando uma thread
 	- [ ] - Movendo o contexto
 	- [ ] - Entendendo channels
 	- [ ] -0 Conclusão
