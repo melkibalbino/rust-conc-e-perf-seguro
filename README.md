@@ -50,8 +50,8 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
 	- [x] - Entendendo channels
 	- [x] - Conclusão
 7. Macros;
-	- [ ] - Por que macros?
-	- [ ] - Recursividade
+	- [x] - Por que macros?
+	- [x] - Recursividade
 	- [ ] - Árvores de tokens
 	- [ ] - Por que usamos macros?
 	- [ ] - As duas Rusts
