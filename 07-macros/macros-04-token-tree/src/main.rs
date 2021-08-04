@@ -11,6 +11,7 @@ macro_rules! write_html {
     }};
 }
 
+#[allow(unused_must_use)]
 fn main() {
     use std::fmt::Write;
     let mut out = String::new();

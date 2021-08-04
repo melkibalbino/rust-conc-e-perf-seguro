@@ -57,8 +57,8 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
 	- [x] - As duas Rusts
 	- [x] - Conclusão
 8. Testar, o tempo todo;
-	- [ ] - A macro panic!
-	- [ ] - Macros de asserção
+	- [x] - A macro panic!
+	- [x] - Macros de asserção
 	- [ ] - Desempacotamento e a macro try!
 	- [ ] - Escrevendo testes
 	- [ ] - Conclusão
