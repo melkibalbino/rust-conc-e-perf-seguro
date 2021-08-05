@@ -69,3 +69,4 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
 	- [x] - Material online
 	- [x] - Conclusão
   
+## Concluido!
