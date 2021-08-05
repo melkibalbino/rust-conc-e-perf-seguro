@@ -59,9 +59,9 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
 8. Testar, o tempo todo;
 	- [x] - A macro panic!
 	- [x] - Macros de asserção
-	- [ ] - Desempacotamento e a macro try!
-	- [ ] - Escrevendo testes
-	- [ ] - Conclusão
+	- [x] - Desempacotamento e a macro try!
+	- [x] - Escrevendo testes
+	- [x] - Conclusão
 9. Como Rust compila o seu código;
 	- [ ] - O passo a passo da compilação
 	- [ ] - O MIR e a melhoria no processo de compilação
