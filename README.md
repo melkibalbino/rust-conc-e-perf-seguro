@@ -63,9 +63,9 @@ Repositorio com os exemplos e exercicios ao acompanhar o livro **Rust - Concorre
 	- [x] - Escrevendo testes
 	- [x] - Conclusão
 9. Como Rust compila o seu código;
-	- [ ] - O passo a passo da compilação
-	- [ ] - O MIR e a melhoria no processo de compilação
+	- [x] - O passo a passo da compilação
+	- [x] - O MIR e a melhoria no processo de compilação
 10. O começo de uma jornada;
-	- [ ] - Material online
-	- [ ] - Conclusão
+	- [x] - Material online
+	- [x] - Conclusão
   
